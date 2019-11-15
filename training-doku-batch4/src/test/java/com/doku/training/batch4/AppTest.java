@@ -10,6 +10,10 @@ import junit.framework.TestSuite;
 public class AppTest 
     extends TestCase
 {
+    
+    void test(){
+//        EnumTest.ERROR.compareTo("");
+    }
     /**
      * Create the test case
      *
